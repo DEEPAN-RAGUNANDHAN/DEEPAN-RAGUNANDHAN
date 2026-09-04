@@ -13,6 +13,8 @@ My learning is currently moving toward **practical AI + technology development**
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b2bf88ae-b3b5-4617-94c3-6dffad05876e" /><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepan-ragunandhan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SHOOT2DEEPAN@GMAIL.COM) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoisthis_deepan) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deepan_D4C) 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/1ac4d130-2ef2-45b8-bc8c-dc4e71c7a626" />
 
 # 💻 Tech Stack:
